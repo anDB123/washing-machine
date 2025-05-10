@@ -1,5 +1,6 @@
 import './App.scss'
 import Washing from './Washing.tsx'
+
 function App() {
 
   return (

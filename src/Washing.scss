@@ -55,7 +55,12 @@ $machine-color: #A4A3A1;
             width: 138px;
             height: 56px;
             background-color: black;
-
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-size: 16px;
+            font-family: Arial, sans-serif;
         }
     }
 
